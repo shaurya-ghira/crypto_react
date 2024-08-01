@@ -1,4 +1,4 @@
-import React, { useState,useContext, useEffect } from 'react'
+import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 import { Routes, Route } from 'react-router-dom'
 import Coins from './components/Coins'
